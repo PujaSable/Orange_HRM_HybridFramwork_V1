@@ -13,7 +13,7 @@ import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.Select;
 
 public class Helper {
-
+// handle windows,iframe,alert.etc
 	public static void selectDropDownValue(WebElement ele, String visibleText) {
 		// TODO Auto-generated method stub
 		
